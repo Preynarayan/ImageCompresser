@@ -1,6 +1,3 @@
-Assignment 2 Printing, Packing and Encoding and image!
-By Prayanshu Narayan #101144277
-
 Purpose of Program:
 This program is made to help the Carleton University Ghost Hunter Society so that sending the photos is not so slow.
 Is to process an image from a stimulated camera to a smaller version and print it out to the screen. 
